@@ -1,0 +1,34 @@
+﻿
+<div ng-controller="HouseholdController">
+    Members in your household
+    <table border="1" ts-wrapper>
+        <thead>
+            <tr>
+                <th ts-criteria="Name">Name</th>
+                <th ts-criteria="Email" ts-default>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="user in usersInHousehold.$$state.value.data" ng-if="user.Id!=userid">
+                <td>{{user.Name}}</td>
+                <td>{{user.Email}}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="ui form segment" style="width:300px">
+        {{errormessage}}
+        <div class="field">
+            <label for="Email">Email</label>
+            <input id="Email" ng-model="user.email" type="text">
+            <button class="btn btn-sm btn-primary btn-block" ng-click="invite()">Invite</button>
+        </div>
+
+    </div>
+    <div style="width:300px">
+        <h1>Leave Household</h1>
+        <button class="btn btn-sm btn-primary btn-block" ng-click="leaveHousehold()">Leave</button>
+
+    </div>
+
+</div>

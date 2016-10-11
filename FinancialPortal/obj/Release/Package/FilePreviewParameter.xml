@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="sharpetyFP" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ty\\Desktop\\FinancialPortal-master\\FinancialPortal\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\ty\\Desktop\\FinancialPortal-master\\FinancialPortal\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="data source=tcp:mbmuw7kmu9.database.windows.net,1433;initial catalog=sharpetyFPDB;user id=CoderFoundry@mbmuw7kmu9;password=LearnToCode1;MultipleActiveResultSets=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ty\\Desktop\\FinancialPortal-master\\FinancialPortal\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="FinanceModel-Web.config Connection String" description="FinanceModel Connection String used in web.config by the application to access the database." value="Data Source=.\SQLEXPRESS;initial catalog=insightdb5;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ty\\Desktop\\FinancialPortal-master\\FinancialPortal\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FinanceModel']/@connectionString" />
+  </parameter>
+</parameters>

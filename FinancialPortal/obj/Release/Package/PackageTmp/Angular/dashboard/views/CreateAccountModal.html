@@ -1,0 +1,30 @@
+﻿<div ng-controller="AccountsController">
+    <script type="text/ng-template" id="/Angular/dashboard/views/CreateAccountModal.html">
+        <div class="modal-header">
+            <h3 class="modal-title">Create Account</h3>
+        </div>
+        <div class="modal-body">
+            <div class="ui form segment">
+                {{errormessage}}
+
+                <div class="field">
+                    <label for="Name">Account name</label>
+                    <input id="Name" ng-model="account.Name" type="text">
+                </div>
+                <div class="field">
+                    <label for="Balance">Balance</label>
+                    <input id="Balance" ng-model="account.Balance">
+                </div>
+
+                <div class="field">
+                    <label for="ReconciledBalance">Reconciled Balance</label>
+                    <input id="ReconciledBalance" ng-model="account.ReconciledBalance">
+                </div>
+            </div>
+        </div>
+        <div class="modal-footer">
+            <button class="btn btn-lg btn-primary btn-block" ng-click="makeaccount()">Create Account</button>
+            <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+        </div>
+    </script>
+</div>

@@ -1,0 +1,37 @@
+﻿<div ng-controller="TransactionsController">
+    
+    <div style="width: 400px; padding: 50px 50px 50px 50px;">
+        <h1>Transactions</h1>
+        <button ng-click="tableParams.filter({})" class="btn btn-default pull-right">Clear filter</button>
+            <strong>Filter:</strong> {{tableParams.filter()|json}}
+            <table ng-table="tableParams" class="table" style="width:600px">
+                <tr ng-repeat="t in $data">
+                    <td data-title="'Edit/Delete'">
+                        <a class='btn btn-primary btn-xs' ng-click="openEdit(t)"><span class="glyphicon glyphicon-edit"></span> Edit</a><a class='btn btn-primary btn-xs' ng-click="Delete(t.Id)"><span class="glyphicon glyphicon-trash"></span> Delete</a>
+                    </td>
+                    <td data-title="'Date'" sortable="'Date'">
+                        {{t.Date}}
+                    </td>
+                    <td data-title="'Description'" sortable="'Description'">
+                        {{t.Description}}
+                    </td>
+                    <td data-title="'category name'" sortable="'Name'">
+                        {{t.Category.Name}}
+                    </td>
+                    <td data-title="'Amount'" sortable="'Amount'">
+                        {{t.Amount}}
+                    </td>
+                    <td data-title="'Reconciled'" sortable="'Reconciled'">
+                        {{t.Reconciled}}
+                    </td>
+                    <td data-title="'Updated By'" sortable="'UpdatedByUserId'">
+                        {{t.UpdatedByUserId}}
+                    </td>
+                </tr>
+            </table>
+</div>
+    <div style="width: 400px">
+        <button class="btn btn-lg btn-primary btn-block" ng-click="open()">Create Transaction</button>
+    </div>
+</div>
+

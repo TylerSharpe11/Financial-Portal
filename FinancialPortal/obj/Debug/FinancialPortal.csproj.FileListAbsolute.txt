@@ -1,0 +1,429 @@
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\FinancialPortal.dll.config
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\FinancialPortal.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\FinancialPortal.pdb
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Antlr3.Runtime.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\EntityFramework.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Insight.Database.Configuration.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Insight.Database.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Insight.Database.Providers.Default.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Newtonsoft.Json.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Owin.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Helpers.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Http.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Http.Owin.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Mvc.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Optimization.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Razor.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\WebGrease.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Antlr3.Runtime.pdb
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\EntityFramework.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Insight.Database.pdb
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Insight.Database.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Insight.Database.Configuration.pdb
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Insight.Database.Configuration.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Insight.Database.Providers.Default.pdb
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Insight.Database.Providers.Default.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\Newtonsoft.Json.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Helpers.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Http.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Http.Owin.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Mvc.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Razor.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\bin\System.Web.Optimization.xml
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\obj\Debug\FinancialPortal.dll
+C:\Users\ty\documents\visual studio 2013\Projects\FinancialPortal\FinancialPortal\obj\Debug\FinancialPortal.pdb
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\FinancialPortal.dll.config
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\FinancialPortal.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\FinancialPortal.pdb
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Antlr3.Runtime.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\EntityFramework.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Insight.Database.Configuration.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Insight.Database.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Insight.Database.Providers.Default.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Newtonsoft.Json.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Owin.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Helpers.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Http.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Http.Owin.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Mvc.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Optimization.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Razor.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\WebGrease.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Antlr3.Runtime.pdb
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\EntityFramework.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Insight.Database.pdb
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Insight.Database.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Insight.Database.Configuration.pdb
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Insight.Database.Configuration.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Insight.Database.Providers.Default.pdb
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Insight.Database.Providers.Default.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\Newtonsoft.Json.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Helpers.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Http.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Http.Owin.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Mvc.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Razor.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\bin\System.Web.Optimization.xml
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\obj\Debug\FinancialPortal.csprojResolveAssemblyReference.cache
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\obj\Debug\FinancialPortal.dll
+C:\Users\tt\Documents\GitHub\FinancialPortal\FinancialPortal\obj\Debug\FinancialPortal.pdb
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\FinancialPortal.dll.config
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\FinancialPortal.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\FinancialPortal.pdb
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Antlr3.Runtime.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\EntityFramework.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Insight.Database.Configuration.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Insight.Database.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Insight.Database.Providers.Default.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Newtonsoft.Json.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Owin.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Helpers.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Http.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Http.Owin.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Mvc.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Optimization.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Razor.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\WebGrease.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Antlr3.Runtime.pdb
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\EntityFramework.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Insight.Database.pdb
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Insight.Database.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Insight.Database.Configuration.pdb
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Insight.Database.Configuration.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Insight.Database.Providers.Default.pdb
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Insight.Database.Providers.Default.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\Newtonsoft.Json.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Helpers.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Http.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Http.Owin.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Mvc.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Razor.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\bin\System.Web.Optimization.xml
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\obj\Debug\FinancialPortal.dll
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\obj\Debug\FinancialPortal.pdb
+C:\Users\tt\Desktop\FinancialPortal\FinancialPortal\obj\Debug\FinancialPortal.csprojResolveAssemblyReference.cache
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\FinancialPortal.dll.config
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\FinancialPortal.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\FinancialPortal.pdb
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Antlr3.Runtime.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\EntityFramework.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Configuration.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Providers.Default.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Newtonsoft.Json.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Owin.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Helpers.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.Owin.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Mvc.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Optimization.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Razor.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\WebGrease.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Antlr3.Runtime.pdb
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\EntityFramework.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.pdb
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Configuration.pdb
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Configuration.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Providers.Default.pdb
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Providers.Default.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\Newtonsoft.Json.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Helpers.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.Owin.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Mvc.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Razor.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Optimization.xml
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\obj\Debug\FinancialPortal.dll
+C:\Users\ty\Desktop\FinancialPortal-master\FinancialPortal\obj\Debug\FinancialPortal.pdb
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\FinancialPortal.dll.config
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\FinancialPortal.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\FinancialPortal.pdb
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Antlr3.Runtime.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\EntityFramework.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Configuration.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Providers.Default.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Newtonsoft.Json.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Owin.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Helpers.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.Owin.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Mvc.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Optimization.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Razor.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\WebGrease.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Antlr3.Runtime.pdb
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\EntityFramework.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.pdb
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Configuration.pdb
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Configuration.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Providers.Default.pdb
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Providers.Default.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\Newtonsoft.Json.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Helpers.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.Owin.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Mvc.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Razor.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\bin\System.Web.Optimization.xml
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\obj\Debug\FinancialPortal.dll
+C:\Users\tt\Desktop\FinancialPortal-master\FinancialPortal\obj\Debug\FinancialPortal.pdb
+F:\FinancialPortal-master\FinancialPortal\bin\FinancialPortal.dll.config
+F:\FinancialPortal-master\FinancialPortal\bin\FinancialPortal.dll
+F:\FinancialPortal-master\FinancialPortal\bin\FinancialPortal.pdb
+F:\FinancialPortal-master\FinancialPortal\bin\Antlr3.Runtime.dll
+F:\FinancialPortal-master\FinancialPortal\bin\EntityFramework.dll
+F:\FinancialPortal-master\FinancialPortal\bin\EntityFramework.SqlServer.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Configuration.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Insight.Database.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Providers.Default.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Google.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Web.Infrastructure.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Newtonsoft.Json.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Owin.dll
+F:\FinancialPortal-master\FinancialPortal\bin\System.Net.Http.Formatting.dll
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Helpers.dll
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.dll
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.Owin.dll
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.WebHost.dll
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Mvc.dll
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Optimization.dll
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Razor.dll
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Deployment.dll
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.dll
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Razor.dll
+F:\FinancialPortal-master\FinancialPortal\bin\WebGrease.dll
+F:\FinancialPortal-master\FinancialPortal\bin\Antlr3.Runtime.pdb
+F:\FinancialPortal-master\FinancialPortal\bin\EntityFramework.xml
+F:\FinancialPortal-master\FinancialPortal\bin\EntityFramework.SqlServer.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Insight.Database.pdb
+F:\FinancialPortal-master\FinancialPortal\bin\Insight.Database.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Configuration.pdb
+F:\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Configuration.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Providers.Default.pdb
+F:\FinancialPortal-master\FinancialPortal\bin\Insight.Database.Providers.Default.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Core.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Cookies.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Facebook.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Google.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.OAuth.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Microsoft.Owin.Security.Twitter.xml
+F:\FinancialPortal-master\FinancialPortal\bin\Newtonsoft.Json.xml
+F:\FinancialPortal-master\FinancialPortal\bin\System.Net.Http.Formatting.xml
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Helpers.xml
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.xml
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.Owin.xml
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Http.WebHost.xml
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Mvc.xml
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Razor.xml
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.xml
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Deployment.xml
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.WebPages.Razor.xml
+F:\FinancialPortal-master\FinancialPortal\bin\System.Web.Optimization.xml
+F:\FinancialPortal-master\FinancialPortal\obj\Debug\FinancialPortal.csprojResolveAssemblyReference.cache
+F:\FinancialPortal-master\FinancialPortal\obj\Debug\FinancialPortal.dll
+F:\FinancialPortal-master\FinancialPortal\obj\Debug\FinancialPortal.pdb

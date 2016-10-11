@@ -1,0 +1,66 @@
+﻿
+<div ng-controller="dashboardController">
+
+            <div style="float:right; padding-top:50px">
+                <div google-chart chart="chartObject" style="{{chartObject.cssStyle}}"></div>
+            </div>
+
+    <div ng-show="seeinvite" style="width:300px">
+        {{seeinvite.FromEmail}} has invited you to his household.
+        <button class="btn btn-sm btn-primary btn-block" ng-click="accept()">Accept</button>
+        <button class="btn btn-sm btn-primary btn-block" ng-click="decline()">Decline</button>
+
+    </div>
+
+    <div style="float:right; padding-top:50px">
+        <div google-chart chart="chartObjectExpense" style="{{chartObjectExpense.cssStyle}}"></div>
+    </div>
+    <div class="row" style="display: inline-block; padding:50px 50px 50px 50px">
+        <div class="span5">
+            <h1>Recent Transactions</h1>
+            <table class="table table-striped table-condensed">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Account Name</th>
+                        <th>Amount</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="t in recentTransactions">
+                        <td>{{t.Date}}</td>
+                        <td>{{t.Account.Name}}</td>
+                        <td>{{t.Amount}}</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <br />
+
+
+    <div class="row" style="display: inline-block; padding:50px 50px 50px 50px" >
+        <div class="span5">
+            <h1>accounts</h1>
+            <table class="table table-striped table-condensed">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Balance</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="t in accounts">
+                        <td>{{t.Name}}</td>
+                        <td>{{t.Balance}}</td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    </div>
+
+
+

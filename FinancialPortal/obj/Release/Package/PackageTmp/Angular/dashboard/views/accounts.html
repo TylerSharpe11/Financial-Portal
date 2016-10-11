@@ -1,0 +1,27 @@
+﻿
+<div ng-controller="AccountsController">
+    <div style="width: 400px; padding: 50px 50px 50px 50px;">
+        Expenses
+        <button ng-click="tableParams.sorting({})" class="btn btn-default pull-right">Clear sorting</button>
+        <strong>Sorting:</strong> {{tableParams.sorting()|json}}
+        <table ng-table="tableParams" class="table" style="width:600px">
+            <tr ng-repeat="b in $data">
+                <td data-title ="'View Transactions'">
+                    <span class="btn btn-info" ng-click="goToTransaction(b.Id)"><i class="glyphicon glyphicon-open"></i> View</span>
+                    <span class="btn btn-info" ng-click="Delete(b.Id)"><i class="glyphicon glyphicon-trash"></i> Delete</span>
+                </td>
+                <td data-title="'Name'" sortable="'Name'">
+                    {{b.Name}}
+                </td>
+                <td data-title="'Balance'" sortable="'Balance'">
+                    {{b.Balance}}
+                </td>
+                <td data-title="'Reconciled Balance'" sortable="'ReconciledBalance'">
+                    {{b.ReconciledBalance}}
+                </td>
+            </tr>
+        </table>
+        <button class="btn btn-lg btn-primary btn-block" ng-click="open()">Create Account</button>
+    </div>
+    
+</div>

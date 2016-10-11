@@ -1,0 +1,54 @@
+﻿
+
+<div ng-controller="BudgetItemController">
+    <div style="float: left; width: 400px; padding: 50px 50px 50px 50px;">
+
+       
+            <h1>Income</h1>
+            <table ng-table="ItableParams" class="table" style="width:600px">
+                <tr ng-repeat="b in $data">
+                    <td data-title="'Action'">
+                        <span class="btn btn-info" ng-click="openEditIncome(b)"><i class="glyphicon glyphicon-open"></i> Edit</span>
+                        <span class="btn btn-info" ng-click="Delete(b.Id)"><i class="glyphicon glyphicon-trash"></i> Delete</span>
+                    </td>
+                    <td data-title="'Amount'" sortable="'Amount'">
+                        {{b.Amount}}
+                    </td>
+                    <td data-title="'Name'" sortable="'Category.Name'">
+                        {{b.Category.Name}}
+                    </td>
+                    <td data-title="'Annual Frequency'" sortable="'AnnualFrequency'">
+                        {{b.AnnualFrequency}}
+                    </td>
+                </tr>
+            </table>
+            <button class="btn btn-lg btn-primary btn-block" ng-click="openIncome()">Create Income</button>
+            </div>
+            <div style="float: right; width: 600px; padding: 50px 150px 50px 50px;">
+              
+                <h1>Expenses</h1>
+
+                <table ng-table="EtableParams" class="table">
+                    <tr ng-repeat="b in $data | filter:{b: '!null'}">
+                        <td data-title="'Action'">
+                            <span class="btn btn-info" ng-click="openEditExpense(b)"><i class="glyphicon glyphicon-open"></i> Edit</span>
+                            <span class="btn btn-info" ng-click="Delete(b.Id)"><i class="glyphicon glyphicon-trash"></i> Delete</span>
+                        </td>
+                        <td data-title="'Amount'" sortable="'Amount'">
+                            {{b.Amount}}
+                        </td>
+                        <td data-title="'Name'" sortable="'Name'">
+                            {{b.Category.Name}}
+                        </td>
+                        <td data-title="'Annual Frequency'" sortable="'AnnualFrequency'">
+                            {{b.AnnualFrequency}}
+                        </td>
+                    </tr>
+                </table>
+                <button class="btn btn-lg btn-primary btn-block" ng-click="openExpense()">Create Expense</button>
+</div>
+
+    </div>
+
+
+           
